@@ -111,6 +111,7 @@ add1 = add % 2
 print(f"The correct codeword is : " + " " .join(map(str,add1)))
 
 Output:
+
 ![WhatsApp Image 2025-04-12 at 15 10 13_c6c9000b](https://github.com/user-attachments/assets/6cb01c1d-d8c1-4918-9d84-ebddc6dd942c)
 ![WhatsApp Image 2025-04-12 at 15 11 03_fbe3730b](https://github.com/user-attachments/assets/0018f692-63f8-487f-8ff5-5e480d5e41b9)
 
