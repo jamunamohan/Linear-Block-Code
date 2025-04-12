@@ -114,6 +114,10 @@ Output:
 
 ![WhatsApp Image 2025-04-12 at 15 55 08_2d3e06f6](https://github.com/user-attachments/assets/63a47eba-b5db-432a-a2e2-0e51275981be)
 ![WhatsApp Image 2025-04-12 at 15 54 59_ef7e77bf](https://github.com/user-attachments/assets/7863bc43-576c-40ac-a4cd-0c1f0ae23469)
+![WhatsApp Image 2025-04-12 at 16 05 30_f49bafbe](https://github.com/user-attachments/assets/0783e2aa-df22-4e21-87b2-ffc0f3e5ceb8)
+![WhatsApp Image 2025-04-12 at 16 05 31_abf2b293](https://github.com/user-attachments/assets/1def7c0a-9ff8-4503-b764-fc1349daeaf8)
+![WhatsApp Image 2025-04-12 at 16 05 31_73278e7f](https://github.com/user-attachments/assets/1313e4f7-d4e4-4839-adcd-5c5749cc640f)
+
 
 Results:
 Thus linear block code operation for the given input is successfully verified.
