@@ -112,8 +112,8 @@ print(f"The correct codeword is : " + " " .join(map(str,add1)))
 
 Output:
 
-![WhatsApp Image 2025-04-12 at 15 10 13_c6c9000b](https://github.com/user-attachments/assets/6cb01c1d-d8c1-4918-9d84-ebddc6dd942c)
-![WhatsApp Image 2025-04-12 at 15 11 03_fbe3730b](https://github.com/user-attachments/assets/0018f692-63f8-487f-8ff5-5e480d5e41b9)
+![WhatsApp Image 2025-04-12 at 15 55 08_2d3e06f6](https://github.com/user-attachments/assets/63a47eba-b5db-432a-a2e2-0e51275981be)
+![WhatsApp Image 2025-04-12 at 15 54 59_ef7e77bf](https://github.com/user-attachments/assets/7863bc43-576c-40ac-a4cd-0c1f0ae23469)
 
 Results:
 Thus linear block code operation for the given input is successfully verified.
